@@ -1,20 +1,19 @@
-Triangle Tracker
+*Triangle Tracker
 Author:
 edddie ngethe warutere
 
-Description:
-Triangle tracker is a super cool, learning app, with the abillity to detect the type of a triangle when a user keys in the values of the three sides of the triangle. (Equilateral, scalene, is0sceles or not a triangle.)
+*Description:
+Triangle tracker is a useful learning app, with the abillity to detect the type of a triangle when a user keys in the values of the three sides of the triangle. (Equilateral, scalene, is0sceles or not a triangle.)
 
-It's a really useful app to the junior learners and and a beautifull tool for fun and help you relax the mind.
+*Languages used:
 
-.Languages used:
-.HTML
-.Javascript
-.CSS
-.Markdown Syntax.
+-HTML
+-Javascript
+-CSS
+-Markdown Syntax.
 
 
-BDD:
+*BDD:
 -This app is therefore expected to work as following:
 -Be able to display an input button for the user.
 -Display a submit and a refresh function.
@@ -24,7 +23,7 @@ BDD:
 -And if the values entered by the user are quite unrealistic to make a triangle, the the result will be "Not a triangle"
 
 
-Setup requirements:
+*Setup requirements:
 -Web browser
 -Internet connection
 -Link to the app:
