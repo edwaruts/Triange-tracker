@@ -1,6 +1,6 @@
 function triangle() {
     //create an array to store the sides
-    var sides = [];
+    var sides = display().getElementById;
     //push all the sides into the array
     sides.push(document.getElementById("num1").value);
     sides.push(document.getElementById("num2").value);
@@ -37,7 +37,7 @@ function track(a, b, c) {
         }
     } else if (isNaN(a) || isNaN(b) || isNaN(c)) {
         display.innerHTML =
-            "<p class='display-text'>That is <span class='not'>NOT</span> a number</p>";
+            "<p class='display-text'>That is <span class='not>NOT</span> a number</p>";
     } else {
         display.innerHTML =
             "<p class='display-text'>That is <span class='not'>NOT</span> a triangle</p><p>The sum of any two sides should be <span class='fill'>GREATER</span> than the third side</p>";
