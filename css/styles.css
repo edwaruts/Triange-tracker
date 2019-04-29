@@ -11,6 +11,7 @@ h1 {
     font-family: 'Pacifico', cursive;
     text-shadow: #b697ec;
     text-underline-position: auto;
+    text-decoration: underline;
 }
 
 .form {
@@ -63,7 +64,7 @@ h1 {
 .type {
     color: steelblue;
     text-transform: uppercase;
-    text-size-adjust: 30%;
+    text-size-adjust: 35%;
 }
 
 .not {
