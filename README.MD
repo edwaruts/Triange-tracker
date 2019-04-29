@@ -27,4 +27,4 @@ Link to the app:
 https://github.com/edwaruts/Triange-tracker.git
 
 License:
-Copyright © 2018; Rkatana.Inc.
+Copyright © 2018; edwaruts.Inc.
