@@ -1,0 +1,1271 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!DOCTYPE html>
+<html lang="en">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <!------------------------------
+      UltraZen Theme by UltraLinx
+      http://themes.theultralinx.com
+      ------------------------------>
+
+    <meta charset="UTF-8">
+
+    <title>Neon Noir</title>
+
+    
+    <meta name="description" content="TJ Fuller gifs, animation, cg stuff #gif #animals #animation">
+    
+
+    <style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=3fc451676906e0ce74d518ae00bb3233"><link rel="shortcut icon" href="https://66.media.tumblr.com/avatar_2a56629d93f0_128.pnj">
+    <link rel="apple-touch-icon" href="https://66.media.tumblr.com/avatar_2a56629d93f0_128.pnj">
+    <link rel="alternate" type="application/rss+xml" href="https://fullertj.tumblr.com/rss">
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Options -->
+    <meta name="color:Background" content="#FFFFFF">
+    <meta name="color:Body Text" content="#999999">
+    <meta name="color:Links" content="#333333">
+    <meta name="color:Title" content="#333333">
+    <meta name="color:Meta" content="#CCCCCC">
+    <meta name="color:Dividers" content="#F2F2F2">
+    <meta name="image:Logo" content="">
+    <meta name="select:Page Width" content="500px" title="Standard">
+    <meta name="select:Page Width" content="700px" title="Wide">
+    <meta name="if:Show Date" content="1">
+    <meta name="if:Show Note Count" content="1">
+    <meta name="if:Infinite Scroll" content="1">
+    <meta name="if:Show Like Reblog Buttons" content="1">
+    <meta name="text:Google Analytics ID" content="" />
+
+    <style type="text/css">
+
+      html {
+        background-color: #ffffff;
+            -webkit-font-smoothing: antialiased;
+      }
+      body {
+        color: #adc31f;
+        font-family: 'Helvetica Neue', "Arial", sans-serif;
+        font-size: 12px;
+        line-height:1.8em;
+      }
+      h1, h2, h3, h4, h5 {
+        font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+        font-weight: 400;
+      }
+      h1 {
+        font-size: 48px;
+        line-height: 48px;
+      }
+      h2 {
+        font-size: 32px;
+        line-height: 38px;
+      }
+      h3 {
+        font-size: 22px;
+        line-height: 28px;
+      }
+      a:link, a:visited {
+        color: #f94444;
+        text-decoration: none;
+      }
+      a:hover, a:active {
+        text-decoration: underline;
+      }
+      hr {
+        border:0 #aaa solid;
+        border-top-width:1px;
+        clear:both;
+        height:0;
+      }
+      ol {
+        list-style:decimal;
+      }
+      ul {
+        list-style:disc;
+        margin-left:0px;
+      }
+      li {
+        margin-left:0px;
+      }
+      p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset {
+        margin: 0 0 15px 0;
+      }
+      .wrapper {
+        max-width: 500px;
+        max-width:500px!important;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      .header {
+        margin:0 auto;
+      }
+      .logotitle {
+        margin: 50px 0;
+      }
+      .logo {
+        text-align: center;
+      }
+      .title {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 24px;
+        font-weight: 100;
+        letter-spacing: 5px;
+        font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+      }
+      .title a {
+        color: #00fff7;
+      }
+      .description {
+        text-align: center;
+        padding: 20px 0 20px 0;
+        border-top: 2px solid #bfbf9d;
+      }
+      .nav {
+        display:block;
+        list-style: none;
+        padding: 20px 0;
+        margin: 0;
+        text-align: center;
+        font-size: 11px;
+        text-transform: uppercase;
+        font-weight: 700;
+        border-top: 2px solid #bfbf9d;
+        border-bottom: 2px solid #bfbf9d;
+        font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+      }
+      .nav li {
+        margin: 10px;
+        display: inline;
+      }
+      .posts {
+        padding-top: 60px;
+      }
+      iframe {
+        max-width: 100%;
+      }
+      .tumblr_video_container {
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .header-posts {
+        padding: 0;
+      }
+      .meta {
+        display: block;
+        height:14px;
+        line-height:1em;
+        font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+        padding-bottom:60px;
+        margin-top: 10px;
+        font-size:11px;
+        color: #CCCCCC;
+        text-transform: uppercase;
+        border-bottom: 2px solid #bfbf9d;
+      }
+      .meta a {
+        color: #CCCCCC;
+      }
+      .date {
+        margin-right: 20px;
+      }
+      .quote {
+        font-size: 30px;
+        font-family: 'Merriweather', serif;
+        letter-spacing: -1px;
+        line-height: 1.2em;
+        padding-bottom: 10px;
+      }
+      blockquote {
+        margin-left: 20px;
+        padding-left: 15px;
+        border-left: 3px #adc31f solid;
+      }
+      .chat {
+        list-style: none;
+        padding: 0;
+      }
+      .tags {
+        display: block;
+        list-style: none;
+        padding: 0;
+        margin: 10px 0 0 0;
+      }
+      .tags a {
+        color: #CCCCCC;
+      }
+      .tags ul {
+        list-style-type: none;
+        display:inline;
+        margin: 0;
+        padding: 0;
+      }
+      .tags li {
+        margin: 0;
+        padding-right: 10px;
+        display:inline;
+      }
+      .footer {
+        text-align: center;
+        padding-bottom: 25px;
+        padding-top: 40px;
+      }
+      .notes {
+        border-bottom: 2px solid #bfbf9d;
+        list-style: none;
+        padding: 20px 0 50px 0;
+        margin: 30px 0 0 0;
+        line-height: 2.2em;
+      }
+      .notes li {
+        margin: 0;
+      }
+      .notes .avatar {
+        margin: 0 5px 0 0;
+        position: relative;
+        top: 5px;
+      }
+      .notes blockquote {
+        margin: 10px 0 0 35px;
+        padding-left: 10px;
+        border-left: 2px solid #adc31f;
+      }
+      .media {
+        margin-bottom: 20px;
+      }
+      .posts img {
+        width: 100%;
+      }
+      
+      #infscr-loading, .pagination {
+        display: none !important;
+      }
+      
+     .pagination {
+        text-align: center;
+        font-weight:700;
+        border-bottom: 2px solid #bfbf9d;
+      }
+      .pagination ul {
+        list-style: none;
+        padding: 10px 15px;
+        margin: 10px 0;
+      }
+      .pagination li {
+        margin: 0 2px 0 2px;
+        display: inline;
+      }
+      #pagination a:link, #pageNav a:visited {
+        padding: 0;
+        margin: 0 2px;
+        text-decoration: none;
+      }
+      #pagination a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+        text-decoration: underline;
+      }
+      #older:after {
+        content: " Â»";
+      }
+      #newer:before {
+        content: "Â« ";
+      }
+      .datenotes {
+        float: left;
+      }
+      .like-button {
+        display: inline-block;
+        float: right;
+        padding: 3px 0 0 10px;
+      }
+      .reblog-button {
+        display: inline-block;
+        float: right;
+        padding: 3px 0 0 0;
+      }
+      #install-btn {
+        position:fixed;
+        bottom: 0px;
+        right:6px
+      }
+      .animated {
+        -webkit-animation-fill-mode: both;
+        -moz-animation-fill-mode: both;
+        -ms-animation-fill-mode: both;
+        -o-animation-fill-mode: both;
+        animation-fill-mode: both;
+        -webkit-animation-duration: 1s;
+        -moz-animation-duration: 1s;
+        -ms-animation-duration: 1s;
+        -o-animation-duration: 1s;
+        animation-duration: 1s;
+      }
+      .animated.hinge {
+        -webkit-animation-duration: 1s;
+        -moz-animation-duration: 1s;
+        -ms-animation-duration: 1s;
+        -o-animation-duration: 1s;
+        animation-duration: 1s;
+      }
+      @-webkit-keyframes fadeInDown {
+        0% {
+          opacity: 0;
+          -webkit-transform: translateY(-20px);
+        }
+        100% {
+          opacity: 1;
+          -webkit-transform: translateY(0);
+        }
+      }
+      @-moz-keyframes fadeInDown {
+        0% {
+          opacity: 0;
+          -moz-transform: translateY(-20px);
+        }
+        100% {
+          opacity: 1;
+          -moz-transform: translateY(0);
+        }
+      }
+      @-o-keyframes fadeInDown {
+        0% {
+          opacity: 0;
+          -o-transform: translateY(-20px);
+        }
+        100% {
+          opacity: 1;
+          -o-transform: translateY(0);
+        }
+      }
+      @keyframes fadeInDown {
+        0% {
+          opacity: 0;
+          transform: translateY(-20px);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .fadeInDown {
+        -webkit-animation-name: fadeInDown;
+        -moz-animation-name: fadeInDown;
+        -o-animation-name: fadeInDown;
+        animation-name: fadeInDown;
+      }
+
+    </style>
+
+    <style></style>
+
+  <link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=fullertj%26postID=161915470083" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=fullertj&postID=161915470083" /><link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://fullertj.tumblr.com/post/161915470083/selfie-in-magenta" title="SELFIE in MAGENTA"/><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/avalon/stylesheet.css?v=1"><meta name="keywords" content="unicorn,🦄" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Neon Noir" /><meta property="og:url" content="https://fullertj.tumblr.com/?og=1" /><meta property="og:description" content="TJ Fuller gifs, animation, cg stuff #gif #animals #animation" /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="https://66.media.tumblr.com/avatar_2a56629d93f0_128.pnj" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=fullertj" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=fullertj" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="app" /><meta name="twitter:description" content="fullertj" /><meta name="twitter:title" content="fullertj" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=fullertj&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=fullertj&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=fullertj&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"https:\/\/fullertj.tumblr.com","itemListElement":[{"@type":"ListItem","position":1,"url":"https:\/\/fullertj.tumblr.com\/post\/183454248543\/%F0%9D%97%97%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%80%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%97%B1-simulacrum"},{"@type":"ListItem","position":2,"url":"https:\/\/fullertj.tumblr.com\/post\/183005544718\/l-a-i-s-s-e-z-f-a-i-r-e"},{"@type":"ListItem","position":3,"url":"https:\/\/fullertj.tumblr.com\/post\/182944044323"},{"@type":"ListItem","position":4,"url":"https:\/\/fullertj.tumblr.com\/post\/182850330553\/dawn-of-the-rhizome"},{"@type":"ListItem","position":5,"url":"https:\/\/fullertj.tumblr.com\/post\/182612845638\/the-burden-of-convenience-latecapitalism-genz"},{"@type":"ListItem","position":6,"url":"https:\/\/fullertj.tumblr.com\/post\/182601006133"},{"@type":"ListItem","position":7,"url":"https:\/\/fullertj.tumblr.com\/post\/182331701763\/oculusmedium"},{"@type":"ListItem","position":8,"url":"https:\/\/fullertj.tumblr.com\/post\/182257823213\/back-to-life-back-to-artificial-reality"},{"@type":"ListItem","position":9,"url":"https:\/\/fullertj.tumblr.com\/post\/162347623448\/fullertj-uni%C3%A7%C3%B8rn"},{"@type":"ListItem","position":10,"url":"https:\/\/fullertj.tumblr.com\/post\/161915470083\/selfie-in-magenta"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://fullertj.tumblr.com" /></head>
+
+  <body>
+
+    <div class="wrapper">
+
+      <div class="header">
+
+        <div class="logotitle animated fadeInDown">
+
+          
+
+          
+          <div class="title">
+            <a href="/">Neon Noir</a>
+          </div>
+          
+
+        </div>
+
+        
+        <div class="description">TJ Fuller gifs, animation, cg stuff #gif #animals #animation</div>
+        
+
+        <ul class="nav">
+
+          
+          
+          <li><a href="/My%20Website">My Website</a></li>
+          
+          
+
+          
+          <li><a href="/ask">Ask</a></li>
+          
+
+          
+
+          <li><a href="/archive">Archive</a></li>
+          <li><a href="/random">Random</a></li>
+          <li><a href="https://fullertj.tumblr.com/rss">RSS</a></li>
+
+        </ul>
+
+        <a id="install-btn" class="not-ready" href="http://themes.theultralinx.com/?utm_source=ultrazen%20theme&utm_medium=button&utm_campaign=ultrazen%20theme%20install%20button" target="_blank">
+          <img src="https://static.tumblr.com/8jq17g7/Re3lqefyw/install.png" alt="Install Theme">
+        </a>
+
+        <div class="autopagerize_page_element">
+
+          
+
+          <div class="post" id="183454248543">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="1280" data-orig-width="1280"><img src="https://66.media.tumblr.com/83186ca7cc8e66c0c3f95289949ffe09/tumblr_poddkpnPNu1rlyvba_500.jpg" data-orig-height="1280" data-orig-width="1280" width="500" height="500" alt="image" /></figure><p>&#120279;&#120310;&#120320;&#120320;&#120302;&#120321;&#120310;&#120320;&#120307;&#120302;&#120304;&#120321;&#120310;&#120316;&#120315; &#120324;&#120310;&#120321;&#120309; &#120321;&#120309;&#120306; &#120288;&#120316;&#120305; </p><p>&#128148;&#128021;&#129516;#simulacrum #oculusmedium #arnoldrenderer #realism #art #3d #maya #cg #animation</p>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/183454248543/%F0%9D%97%97%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%80%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%97%B1-simulacrum">14th Mar 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/183454248543/%F0%9D%97%97%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%80%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A0%F0%9D%97%BC%F0%9D%97%B1-simulacrum#notes">69 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="183454248543" data-blog-name="fullertj" id="like_button_183454248543"><iframe id="like_iframe_183454248543" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=183454248543&amp;color=grey&amp;rk=2UvQUC6v" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_183454248543"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/183454248543/2UvQUC6v" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="183005544718">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="875" data-orig-width="1280"><img src="https://66.media.tumblr.com/03e231f4073d2eb368bcdcbdd2c3d48f/tumblr_pne53oJ4ze1rlyvba_500.jpg" data-orig-height="875" data-orig-width="1280" width="500" height="342" alt="image" /></figure><p>L A I S S E Z - F A I R E</p>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/183005544718/l-a-i-s-s-e-z-f-a-i-r-e">23rd Feb 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/183005544718/l-a-i-s-s-e-z-f-a-i-r-e#notes">20 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="183005544718" data-blog-name="fullertj" id="like_button_183005544718"><iframe id="like_iframe_183005544718" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=183005544718&amp;color=grey&amp;rk=gShM4NGn" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_183005544718"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/183005544718/gShM4NGn" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="182944044323">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="1280" data-orig-width="1280"><img src="https://66.media.tumblr.com/d9267a43f21b3b3991e9316fc0eee90c/tumblr_pn8tyuiotE1rlyvba_500.jpg" data-orig-height="1280" data-orig-width="1280" width="500" height="500" alt="image" /></figure><p>#&#128561;</p>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/182944044323">20th Feb 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/182944044323#notes">61 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="182944044323" data-blog-name="fullertj" id="like_button_182944044323"><iframe id="like_iframe_182944044323" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=182944044323&amp;color=grey&amp;rk=QvkgokXd" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_182944044323"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/182944044323/QvkgokXd" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="182850330553">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="1066" data-orig-width="1280"><img src="https://66.media.tumblr.com/8fb6314325705e4f85ddade51742e04e/tumblr_pn17murC021rlyvba_500.jpg" data-orig-height="1066" data-orig-width="1280" width="500" height="416" alt="image" /></figure><p>#&#128005; #&#129420; Dawn of the Rhizome</p>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/182850330553/dawn-of-the-rhizome">16th Feb 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/182850330553/dawn-of-the-rhizome#notes">65 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="182850330553" data-blog-name="fullertj" id="like_button_182850330553"><iframe id="like_iframe_182850330553" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=182850330553&amp;color=grey&amp;rk=mlbHsBwq" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_182850330553"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/182850330553/mlbHsBwq" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="182612845638">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="1280" data-orig-width="1280"><img src="https://66.media.tumblr.com/1b82b34e591f57b195495bd40e6b2151/tumblr_pmiucqXlw31rlyvba_500.jpg" data-orig-height="1280" data-orig-width="1280" width="500" height="500" alt="image" /></figure><p>The Burden of Convenience  #lateCapitalism #genZ </p>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/182612845638/the-burden-of-convenience-latecapitalism-genz">6th Feb 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/182612845638/the-burden-of-convenience-latecapitalism-genz#notes">51 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="182612845638" data-blog-name="fullertj" id="like_button_182612845638"><iframe id="like_iframe_182612845638" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=182612845638&amp;color=grey&amp;rk=3SNKWRK9" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_182612845638"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/182612845638/3SNKWRK9" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="182601006133">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="1280" data-orig-width="1280"><img src="https://66.media.tumblr.com/5db9672036a4df17ba3290623ffbcfac/tumblr_pmhxnrmfkR1rlyvba_500.jpg" data-orig-height="1280" data-orig-width="1280" width="500" height="500" alt="image" /></figure>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+            <ul class="tags">
+              
+              <li><a href="https://fullertj.tumblr.com/tagged/%F0%9F%A6%84">#🦄</a></li>
+              
+            </ul>
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/182601006133">6th Feb 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/182601006133#notes">94 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="182601006133" data-blog-name="fullertj" id="like_button_182601006133"><iframe id="like_iframe_182601006133" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=182601006133&amp;color=grey&amp;rk=80sJKZe4" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_182601006133"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/182601006133/80sJKZe4" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="182331701763">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="1280" data-orig-width="1280"><img src="https://66.media.tumblr.com/51a265e3481e06da64089926be782ef5/tumblr_plyr1wg8D51rlyvba_500.jpg" data-orig-height="1280" data-orig-width="1280" width="500" height="500" alt="image" /></figure><p>#oculusmedium</p>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/182331701763/oculusmedium">26th Jan 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/182331701763/oculusmedium#notes">45 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="182331701763" data-blog-name="fullertj" id="like_button_182331701763"><iframe id="like_iframe_182331701763" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=182331701763&amp;color=grey&amp;rk=a6XYIQpQ" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_182331701763"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/182331701763/a6XYIQpQ" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="182257823213">
+
+            <div class="posts">
+
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+              
+              <figure class="tmblr-full" data-orig-height="1280" data-orig-width="1280"><img src="https://66.media.tumblr.com/215815f14b4dc6a99a9aaf3b230a9df9/tumblr_pltb052BrV1rlyvba_500.jpg" data-orig-height="1280" data-orig-width="1280" width="500" height="500" alt="image" /></figure><p>back to life, back to artificial reality &#128123;</p>
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/182257823213/back-to-life-back-to-artificial-reality">23rd Jan 2019</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/182257823213/back-to-life-back-to-artificial-reality#notes">105 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="182257823213" data-blog-name="fullertj" id="like_button_182257823213"><iframe id="like_iframe_182257823213" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=182257823213&amp;color=grey&amp;rk=SZaXUNrA" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_182257823213"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/182257823213/SZaXUNrA" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="162347623448">
+
+            <div class="posts">
+
+              
+              <div class="media">
+                
+                <img src="https://66.media.tumblr.com/c419cdfef4a24f0a43638ed35d1afba7/tumblr_nxwj49nDNH1sq1n6uo1_500.gif" alt="fullertj:
+&ldquo;UNi&ccedil;&oslash;RN
+&rdquo;" />
+                
+              </div>
+              
+              <div class="photoCaption"><p><a href="http://fullertj.tumblr.com/post/133329015138/uni%C3%A7%C3%B8rn" class="tumblr_blog">fullertj</a>:</p><blockquote><p>UNi&ccedil;&oslash;RN</p></blockquote></div>
+              
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+            <ul class="tags">
+              
+              <li><a href="https://fullertj.tumblr.com/tagged/unicorn">#unicorn</a></li>
+              
+            </ul>
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/162347623448/fullertj-uni%C3%A7%C3%B8rn">27th Jun 2017</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/162347623448/fullertj-uni%C3%A7%C3%B8rn#notes">513 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="162347623448" data-blog-name="fullertj" id="like_button_162347623448"><iframe id="like_iframe_162347623448" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=162347623448&amp;color=grey&amp;rk=MpF6LNEq&amp;root_id=133329015138" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_162347623448"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/162347623448/MpF6LNEq" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+          <div class="post" id="161915470083">
+
+            <div class="posts">
+
+              
+              <div class="media">
+                <a href="https://fullertj.tumblr.com/image/161915470083">
+                <img src="https://66.media.tumblr.com/f17f0a667eb8510f64eb6c91af1a7370/tumblr_orobdrMWwj1sq1n6uo1_540.gif" alt="SELFIE in MAGENTA" />
+                </a>
+              </div>
+              
+              <div class="photoCaption"><p>SELFIE in MAGENTA</p></div>
+              
+              
+
+              
+
+              
+
+              
+
+              
+            </div>
+
+            <div class="header-posts">
+
+              
+
+              
+
+              
+
+              
+
+            </div>
+
+            
+            <ul class="tags">
+              
+              <li><a href="https://fullertj.tumblr.com/tagged/selfie">#selfie</a></li>
+              
+              <li><a href="https://fullertj.tumblr.com/tagged/IRL">#IRL</a></li>
+              
+              <li><a href="https://fullertj.tumblr.com/tagged/uncanny-valley">#uncanny valley</a></li>
+              
+              <li><a href="https://fullertj.tumblr.com/tagged/TJ-Fuller">#TJ Fuller</a></li>
+              
+              <li><a href="https://fullertj.tumblr.com/tagged/realism">#realism</a></li>
+              
+            </ul>
+            
+
+            <div class="meta">
+              <div class="datenotes">
+
+              
+              
+              <span class="date"><a href="https://fullertj.tumblr.com/post/161915470083/selfie-in-magenta">16th Jun 2017</a></span>
+              
+              
+
+              
+              
+              <a href="https://fullertj.tumblr.com/post/161915470083/selfie-in-magenta#notes">37 notes</a>
+              
+              
+
+            </div>
+
+            
+            <div class="like-button"><div class="like_button" data-post-id="161915470083" data-blog-name="fullertj" id="like_button_161915470083"><iframe id="like_iframe_161915470083" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=fullertj&amp;post_id=161915470083&amp;color=grey&amp;rk=XMv2TIOy" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_161915470083"></iframe></div></div>
+            <div class="reblog-button"><a href="https://www.tumblr.com/reblog/161915470083/XMv2TIOy" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+            
+
+          </div>
+
+          
+
+        </div>
+        
+
+      </div>
+
+      
+      <div class="pagination">
+
+        <ul class="clearfix">
+          
+          
+          
+          <li><a href="" class="active">1</a></li>
+          
+          
+          
+          
+          
+          <li><a href="/page/2">2</a></li>
+          
+          
+          
+          
+          <li><a href="/page/3">3</a></li>
+          
+          
+          
+          
+          <li><a href="/page/4">4</a></li>
+          
+          
+          
+          
+          <li><a href="/page/5">5</a></li>
+          
+          
+          
+          
+          <li><a href="/page/6">6</a></li>
+          
+          
+          
+          
+          <li><a href="/page/7">7</a></li>
+          
+          
+          
+          
+          <li><a href="/page/8">8</a></li>
+          
+          
+          
+          
+          <li><a href="/page/9">9</a></li>
+          
+          
+          
+          
+          <li><a href="/page/10">10</a></li>
+          
+          
+          
+          <li><a href="/page/2" id="older">Older</a></li>
+          
+        </ul>
+
+      </div>
+      
+
+      <div class="footer">
+        Â© 2013–2019 - Neon Noir - Powered by Tumblr <br> <strong><p><a href="http://themes.theultralinx.com/?utm_source=ultrazen%20theme&utm_medium=link&utm_campaign=ultrazen%20theme%20footer%20credit">UltraZen Theme by UltraLinx</a></p></strong>
+      </div>
+
+    </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://static.tumblr.com/t8k4hxe/WK1mslt6q/jquery.fitvids.js"></script>
+
+    <script>
+
+      $('.js-media').fitVids({ customSelector: 'iframe' });
+
+    </script>
+
+    
+    
+    <script src="https://static.tumblr.com/pqftzxm/Utcnytumt/jquery.infinitescroll.min.js"></script>
+    <script>
+      (function () {
+
+        $('.autopagerize_page_element').infinitescroll({
+          navSelector: '.pagination',
+          nextSelector: '.pagination #older',
+          itemSelector: '.post',
+          bufferPx: 600
+        }, function (newElements) {
+          var $newElems = $(newElements).css({
+            opacity: 0
+          });
+          var $newElemsIDs = $newElems.map(function () {
+            return this.id;
+          }).get();
+          $newElems.find('.js-media').fitVids({ customSelector: 'iframe' });
+          Tumblr.LikeButton.get_status_by_post_ids($newElemsIDs);
+          $newElems.animate({
+            opacity: 1
+          });
+        });
+
+      })();
+    </script>
+    
+    
+
+    
+
+  
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?dfab06320413a6a34dbca419c4c70f2c#" +
+                              "https://fullertj.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/';
+                    var tumblelog_id = 't:KsgS92-5hO5nJGUVUHuQAA';
+                    var yahoo_space_id = '1197719229';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript" nonce="xX889jVrKz0vI6NzfOpO2PgnHo">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1556480851&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2Z1bGxlcnRqLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIn0=&U=JMBOOKJMEL&K=676d045706743d0924ab2c420fc51471c6f36f4851c2fcce2f196db4bcf78a57&R=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcat-cats-gif-3oEduLSwuxfMoTbMQg'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1556480851&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2Z1bGxlcnRqLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIiwibm9zY3JpcHQiOjF9&U=JMBOOKJMEL&K=f250af6c8e8e04c4c85c6b4d060996889f61842cc9afb26e5368bb9d2468b8d6&R=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcat-cats-gif-3oEduLSwuxfMoTbMQg"></noscript><script nonce="xX889jVrKz0vI6NzfOpO2PgnHo">
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'https://assets.tumblr.com/assets/scripts/vendor/cedexis/1-13960-radar10.min.js?_v=8d32508b0a251bebecb4853c987c5015';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript" nonce="xX889jVrKz0vI6NzfOpO2PgnHo">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1556480851&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9mdWxsZXJ0ai50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJwb3N0aWQiOiIxODM0NTQyNDg1NDMiLCJibG9naWQiOiIxMDU2Njk4MzMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4MzAwNTU0NDcxOCIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTgyOTQ0MDQ0MzIzIiwiYmxvZ2lkIjoiMTA1NjY5ODMzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxODI4NTAzMzA1NTMiLCJibG9naWQiOiIxMDU2Njk4MzMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4MjYxMjg0NTYzOCIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTgyNjAxMDA2MTMzIiwiYmxvZ2lkIjoiMTA1NjY5ODMzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxODIzMzE3MDE3NjMiLCJibG9naWQiOiIxMDU2Njk4MzMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4MjI1NzgyMzIxMyIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxMDU2Njk4MzMiLCJyb290X3Bvc3RpZCI6IjEzMzMyOTAxNTEzOCIsInBvc3RpZCI6IjE2MjM0NzYyMzQ0OCIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTYxOTE1NDcwMDgzIiwiYmxvZ2lkIjoiMTA1NjY5ODMzIiwic291cmNlIjozM31dfQ==&U=APHGHMPHJG&K=94e3edd865c1e9164a4d0e3361e1ca3fb56a12b4d2a7209064cf3be05c50a6a3&R=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcat-cats-gif-3oEduLSwuxfMoTbMQg'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1556480851&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9mdWxsZXJ0ai50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJwb3N0aWQiOiIxODM0NTQyNDg1NDMiLCJibG9naWQiOiIxMDU2Njk4MzMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4MzAwNTU0NDcxOCIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTgyOTQ0MDQ0MzIzIiwiYmxvZ2lkIjoiMTA1NjY5ODMzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxODI4NTAzMzA1NTMiLCJibG9naWQiOiIxMDU2Njk4MzMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4MjYxMjg0NTYzOCIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTgyNjAxMDA2MTMzIiwiYmxvZ2lkIjoiMTA1NjY5ODMzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxODIzMzE3MDE3NjMiLCJibG9naWQiOiIxMDU2Njk4MzMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE4MjI1NzgyMzIxMyIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxMDU2Njk4MzMiLCJyb290X3Bvc3RpZCI6IjEzMzMyOTAxNTEzOCIsInBvc3RpZCI6IjE2MjM0NzYyMzQ0OCIsImJsb2dpZCI6IjEwNTY2OTgzMyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTYxOTE1NDcwMDgzIiwiYmxvZ2lkIjoiMTA1NjY5ODMzIiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=APHGHMPHJG&K=ea3c48d3995f271f34095970f978848dd4dbb4dc8f0edddb4cfed523c13d5539&R=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcat-cats-gif-3oEduLSwuxfMoTbMQg"></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=4ecd942f15eb5787078ca286fb072bde&quot;,&quot;tumblelogName&quot;:&quot;fullertj&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Neon Noir&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/66.media.tumblr.com\/avatar_2a56629d93f0_64.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/fullertj.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:false,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/3d12a18a87bd102df0b3358500ccaafd\/n2lx7fa\/SDNnwvcf1\/tumblr_static_tumblr_static_2bmmahq9tvwg4c8gks04400w0_focused_v3.gif&quot;,&quot;themeBackgroundColor&quot;:&quot;#000000&quot;,&quot;themeTitleColor&quot;:&quot;#00ffe5&quot;,&quot;themeAccentColor&quot;:&quot;#27FFF2&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:true,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/fullertj.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dblog_network_floating_cta&quot;,&quot;ios&quot;:&quot;https:\/\/itunes.apple.com\/app\/apple-store\/id305343404?pt=9029\u0026ct=blog_network_floating_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;tumblr_new_iframe&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwic2FmZV9tb2RlIjp0cnVlLCJzYWZlX21vZGVfZW5hYmxlZCI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwia3Jha2VuX3dlYl9sb2dnaW5nX2xpYnJhcnkiOnRydWUsInNlY3VyZV9mb3JtX2tleSI6dHJ1ZSwic2VjdXJlX2Zvcm1fa2V5X2Z1bGx5X29uIjp0cnVlLCJ0dW1ibGVsb2dfcG9wb3ZlciI6dHJ1ZSwiY2Fub25pY2FsX3VybF93cml0ZXMiOnRydWUsImVuYWJsZV9jYXB0dXJlX2pzIjp0cnVlLCJwcmltYV9wb3N0X2Zvcm1zIjp0cnVlLCJsb2NrZWRfcmVibG9nX3VpIjp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwidHVtYmxyX3R2Ijp0cnVlLCJkZXByZWNhdGVfZmVhdHVyZWRfdGFncyI6dHJ1ZSwicmVibG9nX3VpX3JlZnJlc2giOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwibW9iaWxlX3dlYl9hYnVzZV9mb3JtIjp0cnVlLCJkb250X2Nhc3RfanNfZm9sbG93cyI6dHJ1ZSwiYWRzX25ld192ZW5kb3JfYnV0dG9ucyI6dHJ1ZSwicmVhY3RpdmF0aW9uX2Zsb3ciOnRydWUsImd1bHBqc19hZG1pbiI6dHJ1ZSwiZW5hYmxlX2pzX2VwaGVtZXJhbF9sb2ciOnRydWUsImxvZ19sYWR5Ijp0cnVlLCJjc2xvZ2dlcl9qcyI6dHJ1ZSwiZGlzY292ZXJ5X2h1Yl9hY2Nlc3MiOnRydWUsImhlYWRlcl9hY2NvdW50X21lbnUiOnRydWUsImVuYWJsZV9zaGFyZV9lbWJlZF9jb2RlIjp0cnVlLCJyZWRkaXRfc2hhcmluZyI6dHJ1ZSwicG9zdF9pdF9mb3J3YXJkIjp0cnVlLCJwZWVwcl9zZWFyY2hfYW5kX2ZpbHRlciI6dHJ1ZSwiaW50ZXJuc19wYWdlIjp0cnVlLCJmb2xsb3dlZF9zZWFyY2hlc19iaWdfd2ViIjp0cnVlLCJsaXZlcGhvdG9zX3dlYiI6dHJ1ZSwidXNlcl90YWdfZmlsdGVyaW5nIjp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJwcm9qZWN0X3hfd2ViX3NlbnNpdGl2ZV9jb3ZlcnMiOnRydWUsInNhZmVfbW9kZV9vd25fcG9zdCI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwidHlwaW5nX2luZGljYXRvcl93cml0ZSI6dHJ1ZSwiZ2Rwcl9ndWNlX2lzX3JlcXVpcmVkIjp0cnVlLCJ0dW1ibHJfdmlkZW9fc3BvbnNvcmVkX2RheSI6dHJ1ZSwiYXJjaGl2ZS1wbHVzIjp0cnVlLCJkYXJsYV9hZF9mZWVkYmFjayI6dHJ1ZSwic3RhdHVzX2luZGljYXRvciI6dHJ1ZSwiZGlzYWJsZV95YWhvb19iX2Nvb2tpZSI6dHJ1ZSwibGl2ZXBob3RvcyI6dHJ1ZX0=&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1556480851000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=4ecd942f15eb5787078ca286fb072bde"></script></body>
+</html>

@@ -1,0 +1,108 @@
+body {
+    text-align: center;
+    background:linear-gradient(253deg,#0cc898,#1797d2,#864fe1);
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 120%;
+    image-orientation: 0deg;
+}
+
+h1 {
+    color: black;
+    font-family: 'Pacifico', cursive;
+    text-shadow: #07030e;
+    text-underline-position: auto;
+}
+.form {
+    width: 40%;
+    border-radius: 10px;
+    background: white;  
+    text-align: center;
+    margin: 0 auto;
+    padding: 1%;
+    height: auto;
+
+}
+
+.fill {
+    color: rgb(221, 160, 27);
+    font-weight: 500;
+}
+
+.input-field {
+    display: block;
+    margin: 20px;
+}
+
+.input-field label {
+    margin-right: 80px;
+}
+
+.input:active {
+    border-color: #428bca;
+}
+
+.button {
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    background: #428bca;
+    border: 5px solid #428bca;
+    color: white;
+    outline-style: none;
+    font-family:'Dancing Script', cursive;
+    ;
+}
+
+.button:hover {
+    color: #154c7c;
+    background-color: white;
+    font-weight: 500;
+}
+
+.type {
+    color: steelblue;
+    text-transform: uppercase;
+    text-size-adjust: 30%;
+}
+
+.not {
+    color: red;
+    text-size-adjust: 50%;
+}
+}
+#footer {
+    margin-bottom: 0;
+    position: fixed;
+    bottom: 0;
+    left: 43%;
+    right: auto;
+    font-weight: bold;
+}
+
+#footer i {
+    color: red;
+}
+
+@media (max-width: 800px) {
+    .form {
+        width: 400px;
+    }
+}
+
+@media (max-width: 668px) {
+    .form {
+        width: 400px;
+    }
+}
+
+@media (max-width: 480px) {
+    .form {
+        width: 250px;
+    }
+
+    #footer {
+        position: relative;
+        left: 0;
+    }
+}

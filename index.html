@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <style>
+  img{
+    width:100%
+  }
+  </style>
+    <meta charset="UTF-8" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Dancing+Script|Gugi|Pacifico|Schoolbell"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css?family=Cormorant+Unicase" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="icon" href="images/icon.png" />
+    <styles>
+
+    <title>Triangle Tracker</title>
+  </head>
+  <body>
+  
+    <h1><strong>Triangle<strong>Tracker</h1>
+  
+    <div class="form">
+      <img src="triangle.gif" alt="gif" width="300" height="300" />
+      <p>
+        Enter the length of three sides of a triangle to get the result
+      </p>
+      <div class="input-field">
+        <label for="num1">Side A</label>
+        <input class="number" type="text" id="num1" name="num1" />
+      </div>
+      <div class="input-field">
+        <label for="num2">Side B</label>
+        <input class="number" type="text" id="num2" name="num2" />
+      </div>
+      <div class="input-field">
+        <label for="num3">Side C</label>
+        <input class="number" type="text" id="num3" name="num3" />
+      </div>
+      <input
+        class="button"
+        type="button"
+        value="Find Out"
+        onclick="triangle()"
+      />
+      <input class="button" type="button" value="Reset" onclick="reset()" />
+      <p id="display"></p>
+    </div>
+    <div id="footer"></div>
+   <img src="download.gif"alt="triangle zone"/>
+  </body>
+  <script src="js/app.js"></script>
+</html>
