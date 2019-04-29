@@ -7,11 +7,13 @@ Triangle tracker is a super cool, learning app, with the abillity to detect the 
 
 It's a really useful app to the junior learners and and a beautifull tool for fun and help you relax the mind.
 
-Languages used:
-HTML
-Javascript
-CSS
-Markdown Syntax.
+.Languages used:
+.HTML
+.Javascript
+.CSS
+.Markdown Syntax.
+
+
 BDD:
 This app is therefore expected to work as following:
 Be able to display an input button for the user.
@@ -21,9 +23,9 @@ If the user enters two equal sides - The result should be "Isosceles triangle: T
 If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"
 And if the values entered by the user are quite unrealistic to make a triangle, the the result will be "Not a triangle"
 Setup requirements:
-Web browser
-Internet connection
-Link to the app:
+-Web browser
+-Internet connection
+-Link to the app:
 https://github.com/edwaruts/Triange-tracker.git
 
 License:
