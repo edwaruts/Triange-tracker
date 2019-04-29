@@ -9,7 +9,7 @@ function triangle() {
     var [a, b, c] = sides;
     var display = document.getElementById("display");
     var explanation = document.getElementById("explanation");
-    if (a.length == 0 || b.length == 0 || c.length == 0) {
+    if (a.length === 0 || b.length === 0 || c.length === 0) {
         //check whether the user has typed something
         display.innerHTML =
             "<p>Please <span class='fill'>FILL</span> all the fields</p>";
@@ -25,10 +25,10 @@ function triangle() {
 
 function track(a, b, c) {
     if (a + b > c && b + c > a && c + a > b) {
-        if (a == b && a == c) {
+        if (a === b && a === c) {
             display.innerHTML =
                 "<p class='display-text'>That is an <span class='type'>Equilateral</span> triangle<p><span class='fill'>ALL</span> sides are equal";
-        } else if (a == b || b == c || a == c) {
+        } else if (a === b || b === c || a === c) {
             display.innerHTML =
                 "<p class='display-text'>That is an <span class='type'>Isosceles</span> triangle<p><span class='fill'>TWO</span> sides are equal";
         } else {
